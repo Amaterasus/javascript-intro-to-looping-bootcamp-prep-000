@@ -22,5 +22,5 @@ function doWhileLoop(num)
   do
   {
     
-  }
+  } while (incrementVariable() < num)
 }
